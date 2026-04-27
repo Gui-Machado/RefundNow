@@ -3,7 +3,7 @@
         <element label="Ammount Real" max_length="255" name="ammount_real" type="float"/>
         <element label="Ammount Dolar" max_length="40" name="ammount_dolar" type="float"/>
         <element label="Category" max_length="32" name="category" reference="x_1974925_refund_0_refund_category" type="reference"/>
-        <element choice="3" label="Integration State" max_length="40" name="integration_state" type="choice">
+        <element choice="3" default="1" label="Integration State" max_length="40" name="integration_state" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Integrating" sequence="1" value="2"/>
                 <element inactive_on_update="false" label="Integration Failure" sequence="3" value="4"/>

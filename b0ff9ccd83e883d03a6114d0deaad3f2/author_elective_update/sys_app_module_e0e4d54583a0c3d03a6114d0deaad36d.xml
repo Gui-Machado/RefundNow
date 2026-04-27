@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Refund Now">47831dc183a0c3d03a6114d0deaad31b</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_1974925_refund_0_refund">state=8^EQ<item display_value="Approved, Awating Payment" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="8"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>List of approved refunds awating payment</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Awating Approval</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1974925_refund_0_refund</name>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1974925_refund_0.refundnow manager</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 18:28:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e0e4d54583a0c3d03a6114d0deaad36d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Awating Payment</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RefundNow" source="x_1974925_refund_0">b0ff9ccd83e883d03a6114d0deaad3f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</sys_scope>
+        <sys_update_name>sys_app_module_e0e4d54583a0c3d03a6114d0deaad36d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 18:30:16</sys_updated_on>
+        <timeline_page/>
+        <title>Awating Payment</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</application>
+        <file_path/>
+        <instance_id>6b01c69a1baa0ed0c8432f8dee4bcb54</instance_id>
+        <instance_name>dev273945</instance_name>
+        <name>sys_app_module_e0e4d54583a0c3d03a6114d0deaad36d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Refund Now">47831dc183a0c3d03a6114d0deaad31b</application><assessment/><device_type/><filter table="x_1974925_refund_0_refund">state=8^EQ<item display_value="Approved, Awating Payment" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="8"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint>List of approved refunds awating payment</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Awating Approval</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1974925_refund_0_refund</name><order>400</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1974925_refund_0.refundnow manager</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-27 18:28:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e0e4d54583a0c3d03a6114d0deaad36d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Awating Payment</sys_name><sys_overrides/><sys_package display_value="RefundNow" source="x_1974925_refund_0">b0ff9ccd83e883d03a6114d0deaad3f2</sys_package><sys_policy/><sys_scope display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</sys_scope><sys_update_name>sys_app_module_e0e4d54583a0c3d03a6114d0deaad36d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-27 18:30:16</sys_updated_on><timeline_page/><title>Awating Payment</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>803297015</payload_hash>
+        <record_name>Awating Payment</record_name>
+        <reverted_from/>
+        <source>b21ef40983ec83d03a6114d0deaad33a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 18:30:16</sys_created_on>
+        <sys_id>764595c583a0c3d03a6114d0deaad3fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19dd034d5950000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 18:30:16</sys_updated_on>
+        <type>Module</type>
+        <update_guid>3245dd051ba0c3d004c5bcc6e73c2218</update_guid>
+        <update_guid_history>3245dd051ba0c3d004c5bcc6e73c2218:803297015,a4e4d54595a0c3d0ce1a36aefc839870:165431309</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Awating Payment">2be6998983a0c3d03a6114d0deaad351</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 18:37:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>86381f49e48c4cb6b33debcda5d22224</sys_id>
+        <sys_metadata>e0e4d54583a0c3d03a6114d0deaad36d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Awating Payment</sys_name>
+        <sys_package display_value="RefundNow" source="x_1974925_refund_0">b0ff9ccd83e883d03a6114d0deaad3f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</sys_scope>
+        <sys_scope_delete display_value="">32c23856e5c44478b5935b5d839c7304</sys_scope_delete>
+        <sys_update_name>sys_app_module_e0e4d54583a0c3d03a6114d0deaad36d</sys_update_name>
+        <sys_update_version display_value="sys_app_module_e0e4d54583a0c3d03a6114d0deaad36d">764595c583a0c3d03a6114d0deaad3fc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 18:37:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

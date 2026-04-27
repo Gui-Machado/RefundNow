@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="approver_user" name="approver_user">debab85bff02110053ccffffffffffb6</contains>
+        <role display_value="x_1974925_refund_0.refundnow.users.manager" name="x_1974925_refund_0.refundnow.users.manager">f9982d4d8324c3d03a6114d0deaad333</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 19:55:43</sys_created_on>
+        <sys_id>a2d8658d8324c3d03a6114d0deaad37f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>approver_user.x_1974925_refund_0.refundnow.users.manager</sys_name>
+        <sys_package display_value="RefundNow" source="x_1974925_refund_0">b0ff9ccd83e883d03a6114d0deaad3f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</sys_scope>
+        <sys_update_name>sys_user_role_contains_a2d8658d8324c3d03a6114d0deaad37f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 19:55:43</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
