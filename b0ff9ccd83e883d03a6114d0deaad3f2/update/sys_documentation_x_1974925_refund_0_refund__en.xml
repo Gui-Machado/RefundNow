@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Refund" language="en" table="x_1974925_refund_0_refund">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Refund</label>
+            <language>en</language>
+            <name>x_1974925_refund_0_refund</name>
+            <plural>Refunds</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-27 15:00:17</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Refund</sys_name>
+            <sys_package display_value="RefundNow" source="x_1974925_refund_0">b0ff9ccd83e883d03a6114d0deaad3f2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</sys_scope>
+            <sys_update_name>sys_documentation_x_1974925_refund_0_refund__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-27 15:00:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

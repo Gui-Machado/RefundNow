@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3635ac49832c83d03a6114d0deaad3a9" extends="task" label="Refund" max_length="40" name="x_1974925_refund_0_refund" type="collection">
+        <element label="Ammount Real" max_length="255" name="ammount_real" type="float"/>
+        <element label="Ammount Dolar" max_length="40" name="ammount_dolar" type="float"/>
+        <element label="Category" max_length="32" name="category" reference="x_1974925_refund_0_refund_category" type="reference"/>
+        <element choice="3" label="Integration State" max_length="40" name="integration_state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Integrating" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Integration Failure" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Integration Success" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Starting" sequence="0" value="1"/>
+            </choice>
+        </element>
+        <element label="Attachment" max_length="40" name="attachment" type="file_attachment"/>
+        <element label="Integration State Message" max_length="1000" name="integration_state_message" type="string"/>
+        <element label="Spent Date" max_length="40" name="spent_date" type="glide_date"/>
+    </element>
+</database>
