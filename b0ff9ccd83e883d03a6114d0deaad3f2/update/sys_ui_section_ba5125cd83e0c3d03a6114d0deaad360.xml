@@ -154,6 +154,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reproval_reason</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-28 16:31:20</sys_created_on>
+            <sys_id>5aa34ed183a447d03a6114d0deaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Refund" display_value="Refund" name="x_1974925_refund_0_refund" sys_domain="global" view="Default view">ba5125cd83e0c3d03a6114d0deaad360</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-28 16:31:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Refund</caption>
             <header>false</header>

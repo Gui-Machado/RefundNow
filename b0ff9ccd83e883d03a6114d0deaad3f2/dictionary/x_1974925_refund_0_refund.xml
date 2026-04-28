@@ -13,6 +13,7 @@
         </element>
         <element label="Attachment" max_length="40" name="attachment" type="file_attachment"/>
         <element label="Integration State Message" max_length="1000" name="integration_state_message" type="string"/>
+        <element label="Reproval Reason" max_length="4000" name="reproval_reason" type="string"/>
         <element label="Spent Date" max_length="40" name="spent_date" type="glide_date"/>
     </element>
 </database>
