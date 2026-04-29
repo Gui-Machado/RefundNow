@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 15:00:21</sys_created_on>
+        <sys_id>f3352089832c83d03a6114d0deaad3f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1974925_refund_0_refund.x_1974925_refund_0.refundnow worker</sys_name>
+        <sys_package display_value="RefundNow" source="x_1974925_refund_0">b0ff9ccd83e883d03a6114d0deaad3f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</sys_scope>
+        <sys_security_acl display_value="x_1974925_refund_0_refund">33352089832c83d03a6114d0deaad3f1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f3352089832c83d03a6114d0deaad3f6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 15:00:21</sys_updated_on>
+        <sys_user_role display_value="x_1974925_refund_0.refundnow worker" name="x_1974925_refund_0.refundnow worker">f4ffdccd83e883d03a6114d0deaad345</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</application>
+        <file_path/>
+        <instance_id>6b01c69a1baa0ed0c8432f8dee4bcb54</instance_id>
+        <instance_name>dev273945</instance_name>
+        <name>sys_security_acl_role_f3352089832c83d03a6114d0deaad3f6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-04-27 15:00:21</sys_created_on><sys_id>f3352089832c83d03a6114d0deaad3f6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1974925_refund_0_refund.x_1974925_refund_0.refundnow worker</sys_name><sys_package display_value="RefundNow" source="x_1974925_refund_0">b0ff9ccd83e883d03a6114d0deaad3f2</sys_package><sys_policy/><sys_scope display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</sys_scope><sys_security_acl display_value="x_1974925_refund_0_refund">33352089832c83d03a6114d0deaad3f1</sys_security_acl><sys_update_name>sys_security_acl_role_f3352089832c83d03a6114d0deaad3f6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-04-27 15:00:21</sys_updated_on><sys_user_role display_value="x_1974925_refund_0.refundnow worker" name="x_1974925_refund_0.refundnow worker">f4ffdccd83e883d03a6114d0deaad345</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>418198632</payload_hash>
+        <record_name>x_1974925_refund_0_refund.x_1974925_refund_0.refundnow worker</record_name>
+        <reverted_from/>
+        <source>fcffdccd83e883d03a6114d0deaad339</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-27 15:00:21</sys_created_on>
+        <sys_id>3b352089832c83d03a6114d0deaad3fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19dcf74a5c10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-27 15:00:21</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>37352089c52c83d04b21d806b4d36cfa</update_guid>
+        <update_guid_history>37352089c52c83d04b21d806b4d36cfa:418198632</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1974925_refund_0_refund.x_1974925_refund_0.refundnow worker">1685fee183a8c7d03a6114d0deaad3cb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-29 14:47:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>4fbfeef1a3a24bc696cb4e4e1786b4a4</sys_id>
+        <sys_metadata>f3352089832c83d03a6114d0deaad3f6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1974925_refund_0_refund.x_1974925_refund_0.refundnow worker</sys_name>
+        <sys_package display_value="RefundNow" source="x_1974925_refund_0">b0ff9ccd83e883d03a6114d0deaad3f2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</sys_scope>
+        <sys_scope_delete display_value="">32c23856e5c44478b5935b5d839c7304</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_f3352089832c83d03a6114d0deaad3f6</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_f3352089832c83d03a6114d0deaad3f6">3b352089832c83d03a6114d0deaad3fb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-29 14:47:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

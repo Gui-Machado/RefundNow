@@ -20,14 +20,14 @@
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles>x_1974925_refund_0.refundnow manager,x_1974925_refund_0.refundnow worker</roles>
+        <roles>x_1974925_refund_0.refundnow manager</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-04-27 18:29:57</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4a35198583a0c3d03a6114d0deaad396</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Repproved</sys_name>
         <sys_overrides/>
         <sys_package display_value="RefundNow" source="x_1974925_refund_0">b0ff9ccd83e883d03a6114d0deaad3f2</sys_package>
@@ -35,7 +35,7 @@
         <sys_scope display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</sys_scope>
         <sys_update_name>sys_app_module_4a35198583a0c3d03a6114d0deaad396</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-04-27 18:30:40</sys_updated_on>
+        <sys_updated_on>2026-04-29 16:54:44</sys_updated_on>
         <timeline_page/>
         <title>Repproved</title>
         <uncancelable>false</uncancelable>
