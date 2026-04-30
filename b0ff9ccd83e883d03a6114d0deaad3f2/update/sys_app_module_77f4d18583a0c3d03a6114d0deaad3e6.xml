@@ -4,7 +4,7 @@
         <application display_value="Refund Now">47831dc183a0c3d03a6114d0deaad31b</application>
         <assessment/>
         <device_type/>
-        <filter table="x_1974925_refund_0_refund">state=8^EQ<item display_value="Approved, Awating Payment" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="8"/>
+        <filter table="x_1974925_refund_0_refund">state=8^EQ<item display_value="Approved - Awating Payment" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="8"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint>List of approved refunds awating payment</hint>

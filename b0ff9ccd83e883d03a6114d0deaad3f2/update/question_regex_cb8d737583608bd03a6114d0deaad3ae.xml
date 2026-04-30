@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_regex">
+    <question_regex action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>Number possibly with dot</name>
+        <regex>^\d+(\.\d+)?$</regex>
+        <regex_flag/>
+        <sys_class_name>question_regex</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-30 14:40:50</sys_created_on>
+        <sys_id>cb8d737583608bd03a6114d0deaad3ae</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Number possibly with dot</sys_name>
+        <sys_package display_value="RefundNow" source="x_1974925_refund_0">b0ff9ccd83e883d03a6114d0deaad3f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</sys_scope>
+        <sys_update_name>question_regex_cb8d737583608bd03a6114d0deaad3ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 14:56:24</sys_updated_on>
+        <validation_message>Not a valid number</validation_message>
+    </question_regex>
+    <sys_translated_text action="delete_multiple" query="documentkey=cb8d737583608bd03a6114d0deaad3ae"/>
+</record_update>

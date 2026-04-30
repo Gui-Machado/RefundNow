@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="RefundNow Tracker">c82084b583e00bd03a6114d0deaad390</dashboard>
+        <group/>
+        <owner>false</owner>
+        <role/>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-30 17:21:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d642a4ca83648bd03a6114d0deaad3eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c82084b583e00bd03a6114d0deaad390</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="RefundNow" source="x_1974925_refund_0">b0ff9ccd83e883d03a6114d0deaad3f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</sys_scope>
+        <sys_update_name>par_dashboard_permission_d642a4ca83648bd03a6114d0deaad3eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 17:21:21</sys_updated_on>
+        <user display_value="Manager RefundNow">1090898d83ec83d03a6114d0deaad3bc</user>
+    </par_dashboard_permission>
+</record_update>

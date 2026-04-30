@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysauto_par">
+    <sysauto_par action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time/>
+        <max_drift/>
+        <name>Refund List</name>
+        <notification display_value="">5fcea80683e48bd03a6114d0deaad32b</notification>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period>1970-01-01 00:00:00</run_period>
+        <run_start>2026-04-30 21:14:54</run_start>
+        <run_time>1970-01-01 21:00:00</run_time>
+        <run_type>daily</run_type>
+        <sys_class_name>sysauto_par</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-30 18:16:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>97cea80683e48bd03a6114d0deaad332</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Refund List</sys_name>
+        <sys_package display_value="RefundNow" source="x_1974925_refund_0">b0ff9ccd83e883d03a6114d0deaad3f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</sys_scope>
+        <sys_update_name>sysauto_par_97cea80683e48bd03a6114d0deaad332</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 18:40:24</sys_updated_on>
+        <time_zone/>
+        <to_export>13ce28c283e48bd03a6114d0deaad345</to_export>
+        <upgrade_safe>false</upgrade_safe>
+        <zip_output>false</zip_output>
+    </sysauto_par>
+</record_update>

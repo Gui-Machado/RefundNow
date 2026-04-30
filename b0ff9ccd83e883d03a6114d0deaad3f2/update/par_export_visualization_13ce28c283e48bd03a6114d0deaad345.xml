@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_export_visualization">
+    <par_export_visualization action="INSERT_OR_UPDATE">
+        <file_type>pdf</file_type>
+        <omit_if_empty>false</omit_if_empty>
+        <orientation>portrait</orientation>
+        <page_size>letter</page_size>
+        <smart_size>false</smart_size>
+        <sys_class_name>par_export_visualization</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-30 18:16:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>13ce28c283e48bd03a6114d0deaad345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="RefundNow" source="x_1974925_refund_0">b0ff9ccd83e883d03a6114d0deaad3f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</sys_scope>
+        <sys_update_name>par_export_visualization_13ce28c283e48bd03a6114d0deaad345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 18:16:01</sys_updated_on>
+        <visualizations>d7af6b7983ec4bd03a6114d0deaad387</visualizations>
+    </par_export_visualization>
+</record_update>

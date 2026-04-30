@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">8820c03983e00bd03a6114d0deaad3f5</canvas>
+        <component display_value="Single score">d24d53f60350de7a652caf3188a46ed2</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","scoreSize":"auto","headingPosition":"top","sparklineStyle":"area","scoreIcon":"clock-outline","iconStyle":"no-background","showScoreDate":false,"useRelativeScoreTime":false,"showScoreUpdateTime":false,"showZero":true,"colorConfig":{"type":"singleColor","values":[{"color":"0c2b2cd75b712110e5ba6e8a1d81c7ba","iconColor":"","metric":"ZEdGaWJHVjBZWE5yWDNOc1lURTNOemMxTmpZeU5EZzJNakU9MTc3NzU2NjI1MDY5MQ==","rules":[]}]},"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[],"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Task SLA","sourceType":"table","tableOrViewName":"task_sla","filterQuery":"sla=224dbb6183e00bd03a6114d0deaad31d","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV0YXNrX3NsYTE3Nzc1NjYyNDg2MjE=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":true,"contextMenuActions":[],"headerTitle":"Average Resolve Time","headingLevel":2,"showBorder":true,"bareBorder":false,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":false,"metrics":[{"dataSource":"dGFibGV0YXNrX3NsYTE3Nzc1NjYyNDg2MjE=","id":"ZEdGaWJHVjBZWE5yWDNOc1lURTNOemMxTmpZeU5EZzJNakU9MTc3NzU2NjI1MDY5MQ==","aggregateFunction":"AVG","axisId":"primary","aggregateField":"business_duration","durationFormat":{"customFormat":false}}],"groupBy":null,"filterPerMetric":[],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":false,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"dlel2sba","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"showDateRangeByDefault":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"useCurrentDateForEnd":false,"period":"M","useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"dateFormat":"default","showRefresh":true,"showFilterAsSeparateSeries":false,"id":"colorConfig","value":{"type":"singleColor","values":[{"color":"0c2b2cd75b712110e5ba6e8a1d81c7ba","iconColor":"","metric":"ZEdGaWJHVjBZWE5yWDNOc1lURTNOemMxTmpZeU5EZzJNakU9MTc3NzU2NjI1MDY5MQ==","rules":[]}]},"noDebounce":true,"propLabel":"Colors","chartInteractionEnabled":false}</component_props>
+        <h>8</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-30 16:24:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b455188283248bd03a6114d0deaad380</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="RefundNow" source="x_1974925_refund_0">b0ff9ccd83e883d03a6114d0deaad3f2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RefundNow">b0ff9ccd83e883d03a6114d0deaad3f2</sys_scope>
+        <sys_update_name>par_dashboard_widget_b455188283248bd03a6114d0deaad380</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-30 19:59:43</sys_updated_on>
+        <visualization/>
+        <w>11</w>
+        <widget_props/>
+        <x>0</x>
+        <y>29</y>
+    </par_dashboard_widget>
+</record_update>
